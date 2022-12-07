@@ -42,7 +42,7 @@ Wie man den TXT-Record für duckdns.org setzt, hat [HODLmeTight](https://github.
 
 Drückt im Terminalfenster nun auf Enter und bestätigt dem certbot damit, dass diese Domain auch tatsächlich eure ist. Das Zertifikat und der Key werden daraufhin unter `/etc/letsencrypt/live/lnbits.meine-domain.de` abgelegt
 
-## Installieren und einrichten von nginx
+## Installieren und Einrichten von nginx
 
 Auf eurem VPS Server führt ihr folgende Befehle aus:
 
